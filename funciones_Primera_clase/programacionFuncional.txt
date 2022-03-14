@@ -1,0 +1,15 @@
+Programacion Funcional JS
+
+Conceptos
+
+1. Funciones de primera clase 
+2. Funcions de orden superior
+3.Composición
+
+================================================
+
+Funciones de primera clase:
+
+    ° Asignadas a una variable
+    ° Usarse como entrada a funciones
+    ° Usarse como salida de funciones
